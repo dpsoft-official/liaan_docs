@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://docs.liaan.ir/"
+baseURL = "https://dpsoft-official.github.io/liaan_docs/"
 # theme
 theme = "dot"
 # site title
